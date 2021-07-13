@@ -2,7 +2,7 @@
 
 Bu projede "Falan Market" isimli hayali bir alışveriş uygulaması yaptım.
 <p align="center">
-  <img src="screens.gif"/>
+  <img src="screens.gif" width="250px" height="525px"/>
 </p>
 
 ### Proje Nasıl Çalıştırılır
